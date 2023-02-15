@@ -46,11 +46,11 @@ Pioneered a process to create responsive mobile device content. Managed the clou
 #### Senior Technical Writer (11/06 to 12/07) Infoblox, CA
 Worked with engineering, product marketing, and customer support to create software and hardware documentation for DNS, DHCP, RADIUS, and IP address management networking products.
 
-#### Publications Manager (05/05 to 10/06) Motorola Solutions, CA
-Managed the Enterprise Mobility Software documentation team.  Handled localization, printing, and translation. Hired, trained, and managed technical writers in San Jose, New York, and Bangalore. Planned department budget for hiring, training, hardware, and software.
+#### Lead Technical Writer (01/04 to 11/06) Synopsys, CA
+Created online help and user documentation for Synopsys test automation tools. Coached and mentored technical writers.
 
-#### Publications Manager (04/02 to 01/04) Synopsys, CA
-Set up and managed a team of senior technical writers and editors in the US, Europe, and India. Managed employee time cards and conducted weekly meetings and performance appraisals. Defined the documentation roadmap.
+#### Consultant (04/02 to 01/04) Brocade Communications, CA
+Wrote the Brocade storage application services programmer’s guide, API reference, and SDK guide from scratch.
 
 #### Senior Technical Writer IV (03/99 to 03/01) Cisco Systems, CA
 Created hardware and software documentation for Cisco voice and cable modem products. 
