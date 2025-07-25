@@ -28,39 +28,51 @@ Pursue a career in technical documentation.
 
 ## Experience
 
-#### Head of Documentation (02/21 to present) Lacework, CA
-Manage a team of writers and documentation infrastructure engineers. Gather requirements, assign projects, conduct meetings, and provide an optimal environment for the documentation team. Hire and train a team of highly talented and successful technical writers and documentation tools staff. Review and contribute to User Interface content. Automate documentation tasks. Continuously assess the team and provide feedback, conduct performance reviews, and evaluate the team. Define the documentation strategy and roadmap.
+Technical Writer Manager, Sysdig, CA
+March 2023 - March 2025
+- Led documentation strategy for Sysdig Secure and Monitor platforms in AWS, GCP, and Azure clouds
+- Configured a multi-lingual AI-powered search portal reducing topic discovery time by 40 percent
+- Created API reference documentation, integration guides, and automated vulnerability report documentation
+- Supported rapid adoption of penetration testing features through comprehensive documentation
+- Used prompt engineering to create Python scripts for file manipulation, search and replace, and AI Search
+   integration
 
-#### Lead Technical Writer (3/20 to 02/21) Diamanti, CA
-Evaulated and implemented a documentation portal. Created UI and API documentation for Diamanti Spektra Kubernetes management platform.
+Documentation Engineer, Lacework, CA
+February 2021 - February 2023
+- Built and maintained docs-as-code workflows using Markdown, Docusaurus, Netlify, and GitHub
+- Reduced documentation publish time from 3 hours to 2 minutes through automation
+- Developed context-sensitive help and step-by-step tutorials for cloud-native security scans and anomaly 
+  detection
+- Used CI/CD pipelines and automated the CLI guide generation
+- Partnered with security engineers to document YAML-driven configuration, alerting APIs, and automated 
+  remediation playbooks
+- Introduced metrics-driven content reviews improving security procedure documentation accuracy by 25 
+  percent
 
-#### Lead Principal Technical Writer (11/15 to 3/20) Akamai Technologies, CA
-Led the Media Services documentation team. Coached and mentored technical writers and editors. Created and maintained the Media streaming documentation suite. Edited UI text and tooltips.
 
-#### Publications Manager (05/14 to 08/15) Springpath Inc., CA
-Planned, designed, and published the documentation suite from scratch. Set up the publications team, designed templates, hired and trained staff.
+Principal Technical Writer, Akamai Technologies, CA
+November 2015 - February 2020
+- Created comprehensive API documentation and code samples for Media Services Live and On Demand
+- Increased third-party integration requests by 35 percent through improved documentation
+- Deployed Readme-based developer portal consolidating REST reference, SDK guides, and quick start guides
 
-#### Principal Technical Writer (2/08 to 05/14) Riverbed Technology, CA
-Pioneered a process to create responsive mobile device content. Managed the cloud storage documentation team. Created and edited UI text for the Whitewater UI.
+Senior Technical Writer, Springpath Inc, CA (acquired by Cisco Systems)
+May 2014 - August 2015
+- Planned, designed, and published version 1.0 documentation for Hyperflex hyperconverged platform
+- Achieved a perfect 10 score for documentation from Cisco acquisition team for clarity, completeness, and 
+  usability
 
-#### Senior Technical Writer (11/06 to 12/07) Infoblox, CA
-Worked with engineering, product marketing, and customer support to create software and hardware documentation for DNS, DHCP, RADIUS, and IP address management networking products.
+Principal Technical Writer, Riverbed Technology, CA
+February 2008 - May 2014
+- Created hardware and software guides for cloud storage gateway Whitewater and SaaS products
+- Developed API references, SDK guides, and network administrator manuals
+- Streamlined review cycles by establishing style guides and templates across multiple product teams
 
-#### Lead Technical Writer (01/04 to 11/06) Synopsys, CA
-Created online help and user documentation for Synopsys test automation tools. Coached and mentored technical writers.
-
-#### Consultant (04/02 to 01/04) Brocade Communications, CA
-Wrote the Brocade storage application services programmer’s guide, API reference, and SDK guide from scratch.
-
-#### Senior Technical Writer IV (03/99 to 03/01) Cisco Systems, CA
-Created hardware and software documentation for Cisco voice and cable modem products. 
-
-#### Publications Consultant (01/97 to 04/97) The Chase Manhattan Corporation, NY
-Edited and published content from Quantitative Analysts. 
-Worked with Modelers to document risk analysis modeling tools. Published commercial lending and reengineering documents.
-
-#### Technical Writer (02/91 to 12/96) Texas Instruments Inc.
-Created user guides, tutorials, reference manuals, and application notes for the Texas Instruments Design Automation Division.
+Senior Technical Writer, Infoblox, CA
+November 2006 - December 2007
+- Worked with engineering, product marketing, and customer support teams
+- Created software and hardware documentation for DNS, DHCP, RADIUS, and IP address management 
+  networking products
 
 ## Education
 * M.A. English, University of Madras
